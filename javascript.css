@@ -1,0 +1,26 @@
+.intro{
+    background-color: aquamarine;
+    position: relative;
+}
+
+.pic-intro{
+    padding: 50px;
+}
+
+#identity > img{
+    border-radius: 50%;
+    height: 150px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill > img {
+    height: 200px;
+    float: left;
+    padding-right: 10px;
+}
+
